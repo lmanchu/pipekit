@@ -1,0 +1,5 @@
+{
+  "name": "Lightweight CRM - Gmail Edition",
+  "description": "A simulated Gmail Add-on CRM featuring email analysis via Gemini, pipeline management, and team collaboration tools.",
+  "requestFramePermissions": []
+}
